@@ -1,0 +1,11 @@
+Matlab Implementation of Genetic Programming with the Push programming language
+by Kyle Harrington (kyleh@cs.brandeis.edu), September 2011.
+
+A very simple GP implementation that operates on a minimal Push implementation.
+
+The default test problem is: X^6 - 2 * X^4 + X^2
+
+To get started (in Matlab):
+pushgp(5,1000)
+
+
